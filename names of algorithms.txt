@@ -1,0 +1,47 @@
+Naive bayes classifier algoritms
+k means clustering algoritms
+support vector machine algorithms
+apriori algorithm
+linear regression
+logistic regression
+random forests
+artificial neural 
+decision tree
+nearest neighbours
+essemble methods
+singular value decomposition
+Dimensionality Reduction Algorithms
+Time Series Forecasting
+---------------
+ordinary least squares regression
+stepwise regression
+multivariate adaptive regression splines
+locally estimated scatterplot smooting
+---------------------
+k-nearest neighbor
+learning vector quantization
+self organizing map
+locally weighted learning
+---------------
+ridge regression
+least absolute shrinkage and selection operator
+elastic net
+least angle regression
+----------------
+;;;decision tree;;;
+classification and regression tree
+iterative dichotomiser 3
+c4.5 and c5.0 
+chi-squared automatic interaction detection
+decision stump
+m5
+conditional decision tree
+-------------------------
+bayesian algorithm
+gaussian naive bayes
+Averaged One-Dependence Estimators
+Bayesian Belief Network
+Bayesian Network
+---------------
+Clustering Algorithms;;
+Eclat algorithm
